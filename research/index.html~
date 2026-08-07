@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+
+<!-- signs have special meaning,  Use &lt for less-than and -->
+<!-- &gt for greater-than -->
+
+
+<!-- Mirrored from www.math.sinica.edu.tw/ypleemath/research/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Mar 2023 06:10:39 GMT -->
+<head><title>Y.P.'s research page</title>
+
+</head>
+
+<body>
+<h1>Y.P.'s Research Page</h1>
+<!-- This is a first level header - headers can be from 1 to 7 with -->
+<!-- different size fonts -->
+
+<!--<b>Voice</b> Phone Number: <br>-->
+<!-- The br tag is a line break -->
+<!-- The b tag is bold/unbold, i is italics, pre is preformatted -->
+
+<!--<b>Email address:</b> <a href="mailto:yplee">yplee@math.berkeley.edu</a> -->
+<hr  noshade="noshade" />
+
+<a name="area"><b>Current Research Area</b>:</a> 
+<i>Gromov-Witten theory</i> and related fields.
+<br /><br />
+
+<b>General Research Interests</b>: <i>Algebraic geometry</i>
+<!-- and to a lesser extent, -->
+and mathematical physics, with emphasis placed on Gromov-Witten theory 
+and its relations with and applications to birational geometry, Hodge theory,
+moduli of curves, symplectic topology, K-theory, integrable systems, 
+representation theory, and mirror symmetry.
+
+<!--<hr />
+
+<b>Seminars that I organized or supervised:</b>
+
+<ul>
+<li> <a href="https://www.math.utah.edu/agseminar/">AG main seminar</a> </li>
+<li> <a href="https://www.math.utah.edu/~yplee/research/gwg.html">Postdoc seminar on Gromow--Witten theory and related topics</a> </li>
+<li> <a href="https://www.math.utah.edu/~jliu/utahagpreprintseminar.html">Reading seminar on AG</a> </li>
+</ul>
+
+All seminars are listed at
+<a href="https://www.math.utah.edu/research/ag/">AG group in Utah</a> website.
+-->
+
+<hr />
+
+<br />
+<a name="publications"><b>List of papers</b></a> (mostly with files or links)
+<i>Comments</i> on typos, expositions, and contents etc... <i>are very welcome!</i>
+Some of the papers are available from 
+<a href="https://arxiv.org/find/math/1/au:+Lee_Y_P/0/1/0/all/0/1">ArXiV.org</a>.
+
+<ul>
+  
+<li><a href="https://arxiv.org/abs/2305.10137"><i>Higher genus quantum K-theory</i></a>, (with <b>You-Cheng Chou</b> and <b>Leo Herr</b>), arxiv:2305.10137. </li>
+
+  <li><a href="https://arxiv.org/abs/2305.08480"><i>Quantum K-invariants and Gopakumar-Vafa invariants II. Calabi-Yau threefolds at genus zero</i></a>, (with
+<b>You-Cheng Chou</b>),	arXiv:2305.08480.</li>  
+
+ <li> <a href="https://arxiv.org/abs/2212.13432"><i>Gopakumar-Vafa invariants 
+= Quantum K-invariants on Calabi-Yau threefolds</i></a>, (with <b>Y.-C. Chou</b>), arXiv:2212.13432, Bumsig Kim Memorial Volume </li>
+
+<li><a href="https://arxiv.org/abs/2211.00788"><i>Quantum K-invariants and Gopakumar-Vafa invariants I. The quintic threefold</i></a>, (with <b>Y.-C. Chou</b>), arXiv:2211.00788.</li>
+
+<li><a href="https://arxiv.org/abs/2012.09379"><i>The log product formula in quantum K-theory</i></a>, (with <b>You-Cheng Chou</b> and <b>Leo Herr</b>), arxiv:2012.09379. </li>
+
+<li><a href="https://arxiv.org/abs/1912.03012"><i>Quantum flips I: local model</i></a>, (with <b>H.-W. Lin and C.-L. Wang</b>), arXiv:1912.03012.  </li>
+
+<li><a href="https://arxiv.org/abs/1908.09027"><i>Virasoro constraints for moduli of weighted pointed stable curves</i></a> (with <b>Y.-C. Chou</b>), arxiv:1908.09027.</li>
+
+<li><i>Variations on the theme of quantum Lefschetz</i> (with <b>H. Fan</b>), <a href="https://arxiv.org/abs/1812.01732">arXiv:1812.01732</a>.</li>
+
+<li><i>Towards a quantum Lefschetz hyperplane theorem in all genera</i> (with <b>H. Fan</b>), <a href="https://arxiv.org/abs/1712.03573">arXiv:1712.03573</a>.</li>
+
+<li><i>Quantum Cohomology under Birational Maps and Transitions</i>, (with <b>H.-W. Lin and C.-L. Wang</b>), <a href="https://arxiv.org/abs/1705.04799">arXiv:1705.04799</a>. </li>
+
+<li><i>A product formula for log Gromov--Witten invariants</i>, (with <b>F. Qu</b>), <a href="https://arxiv.org/abs/1701.04527">arXiv:1701.04527</a>. </li>
+
+<li><i>On Gromov-Witten theory of projective bundles</i>, (with <b>H. Fan</b>), <a href="https://arxiv.org/abs/1607.00740">arXiv:1607.00740</a>. </li>
+
+<li><i>Towards A + B theory in conifold transitions</i>, (with <b>H.-W. Lin and C.-L. Wang</b>), <a href="https://arxiv.org/abs/1502.03277">arXiv:1502.03277</a>.</li>
+
+<li><i>A proof of the Landau-Ginzburg/Calabi-Yau correspondence via the crepant transformation conjecture</i> (with <b>N. Priddis and M. Shoemaker</b>), <a href="https://arxiv.org/abs/1410.5503">arXiv:1410.5503</a>.</li>
+
+<li><i>Invariance of quantum rings under ordinary flops: III</i>, (with <b>H.-W. Lin, F. Qu and C.-L. Wang</b>), <a href="https://arxiv.org/abs/1401.7097">arXiv:1401.7097</a>.</li>
+
+<li><i>Invariance of quantum rings under ordinary flops: II</i>, (with <b>H.-W. Lin and C.-L. Wang</b>), <a href="https://arxiv.org/abs/1311.5725">arXiv:1311.5725</a>.</li>
+
+<li><i>Invariance of quantum rings under ordinary flops: I</i>, (with <b>H.-W. Lin and C.-L. Wang</b>), <a href="https://arxiv.org/abs/1109.5540">arXiv:1109.5540</a>.</li>
+
+<li><i>A Mirror Theorem for the Mirror Quintic</i>, (with <b>M. Shoemaker</b>), <a href="https://arxiv.org/abs/1209.2487">arXiv:1209.2487</a>, to appear in <a href="https://msp.org/gt/2014/18-3/gt-v18-n3-p06-s.pdf">Geometry and Topology</a>. </li>
+
+<li><i>Euler characteristics of universal cotangent line bundles on $\Mbar_{1,n}$</i>  (with <b>F. Qu</b>), <a href="https://arxiv.org/abs/1211.2450">arXiv:1211.2450</a>, to appear in proceedings of the AMS.</li>
+
+<li><a href="grenoble.pdf"><i>Introduction to GWT and CTC</i></a>, 
+my notes from Grenoble Lectures in the summer 2011.
+<!--published at <a href="https://hal.archives-ouvertes.fr/FOURIER/">HAL</a>.-->
+</li>
+
+<li><a href="LLW-ICCM2010.pdf"><i>Analytic continuations of quantum cohomology</i></a>,  (with <b>H.-W. Lin and C.-L. Wang</b>), to appear in proceedings ICCM 2010.</li>
+
+<li><i>Algebraic cobordism of bundles on varieties</i> (with <b>R. Pandharipande</b>) <a href="https://arxiv.org/abs/arXiv:1002.1500">arXiv:1002.1500</a>, to appear in JEMS.</li>
+
+<li><i>Algebraic structures on the topology of moduli spaces of curves and maps</i> (with <b>R. Vakil</b>), <a href="https://arxiv.org/abs/arXiv:0809.1879">arXiv:0809.1879</a>, to appear in Surveys in Differential Geometry. </li>
+
+<li><i>Invariance of Gromov--Witten theory under a simple flop</i> (with <b>Y. Iwao, H.-W. Lin and C.-L. Wang</b>), <a href="https://arxiv.org/abs/0804.3816">arXiv:0804.3816</a>, to appear in Crelle's. </li>
+
+<li><i>The quantum orbifold cohomology of weighted projective spaces</i> (with <b>T. Coates, A. Corti, and H.-H. Tseng</b>), <a href="https://arxiv.org/abs/math.AG/0608481">math.AG/0608481</a>, <a href="https://www.actamathematica.org/">Acta Mathematica</a> 202 (2009) no. 2.</li>
+
+<li><i>Flops, motives and invariance of quantum rings</i> (with <b>H.-W. Lin and C.-L. Wang</b>) (final version 30 June 2006)
+<a href="https://arxiv.org/abs/math.AG/0608370">math.AG/0608370</a>, 
+<a href="https://annals.math.princeton.edu/">Annals of Math</a>,
+172 (2010) no.1 243-290.</li>
+
+<li><i>On independence of generators of the tautological rings</i> (with <b>D. Arcara</b>), <a href="https://arxiv.org/abs/math.AG/0605488">math.AG/0605488</a>, <a href="https://www.compositio.nl/">Compositio Math</a> 144 (2008) no. 6 1497--1503.
+</li>
+
+<li><i> Notes on axiomatic Gromov--Witten theory and applications</i>,
+<a href="https://arxiv.org/abs/0710.4349">arXiv:0710.4349</a>, 
+ Algebraic geometry---Seattle 2005. Part 1,  309--323, Proc. Sympos. Pure Math., 80, Part 1, Amer. Math. Soc., Providence, RI, 2009.
+</li>
+
+<li><i> Invariance of tautological equations II: Gromov--Witten theory</i>,
+(<b>Appendix with Y. Iwao</b>,)
+<a href="https://arxiv.org/abs/math.AG/0605708">math.AG/0605708</a>,
+<a href="https://www.ams.org/journals/jams/">JAMS</a> 22 (2009) no. 2, 331-352.
+<!--(<a href="appendix.pdf">appendix</a>)--> 
+<br />
+<b>New!</b> An exciting consequence of ITE2 has just come out. In <a href="https://arxiv.org/abs/math.AG/0612510">math.AG/0612510<!--Tautological relations and the r-spin Witten conjecture--></a> by <b>Faber, Shadrin, and Zvonkine, they solved Witten's r-spin conjecture completely</b>. In fact, that was the original motivation of ITE project, which we were not able to carry through....
+</li>
+
+<li><i> Invariance of tautological equations I: conjectures and applications</i>, <a href="https://arxiv.org/abs/math.AG/0604318">math.AG/0604318</a>,
+<a href="https://www.ems-ph.org/journals/journal.php?jrn=jems">J Euro Math Soc</a> 10 (2008) no. 2, 399-413.
+</li>
+
+<li><i> Tautological equations in \Mbar_{3,1} via invariance conjectures</i> 
+(with <b>D. Arcara</b>). 
+<a href="https://arxiv.org/abs/math.AG/0503184">math.AG/0503184</a>. 
+<a href="M31.pdf">updated version</a>. 
+To appear in <a href="https://journals.cms.math.ca/CJM/">Canadian Journal of Mathematics</a>.</li>
+
+<li><i> Tautological equations in genus 2 via invariance conjectures</i> 
+(with <b>D. Arcara</b>), 
+<a href="https://arxiv.org/abs/math.AG/0502488">math.AG/0502488</a>.
+<a href="g2.pdf">updated version</a>.</li>
+
+<li><i>Witten's conjecture, Virasoro conjecture, and invariance of tautologicalequations</i>, <a href="https://arxiv.org/abs/math.AG/0311100">math.AG/0311100</a>.
+</li>
+
+<li><i>Witten's conjecture and Virasoro conjecture up to genus two</i>,
+<a href="https://arxiv.org/abs/math.AG/0310442">math.AG/0310442</a>.
+To appear in the proceedings of the conference
+"Gromov-Witten Theory of Spin Curves and Orbifolds", Contemp. Math., AMS.</li>
+
+<li><i>Quantum K-Theory II: Computations and open problems</i>, in preparation.</li>
+
+<li><i>Frobenius manifolds, Gromov--Witten theory, and Virasoro constraints</i>, (with <b>R. Pandharipande</b>), a book in preparation,
+<a href="Part1.ps">Part1.ps</a>, 
+<a href="Part2.ps">Part2.ps</a> (partial), 
+(Part 3 not yet available).
+<!--<a href="book.pdf">PDF file optimized for 2-to-1 printing</a>.-->
+</li>
+
+<li><i>A reconstruction theorem in quantum cohomology and quantum K-theory</i>,
+(with <b>R. Pandharipande</b>), 
+<a href="https://arxiv.org/abs/math.AG/0104084">math.AG/0104084</a>.
+Updated <a href="ajm.pdf">PDF file</a>.
+Amer. J. Math., 126 (2004),  no. 6, 1367--1379.</li>
+
+<li><i>Quantum K-theory on flag manifolds, finite difference Toda lattices
+and quantum groups</i> (with <b>A. Givental</b>), Invent. Math. <b>151</b>,
+193-219, 2003. 
+<a href="https://arxiv.org/abs/math.AG/0108105">math.AG/0108105</a>,
+<!--<a href="qkflag.pdf">PDF file</a>.-->
+<a href="https://www.ams.org/leavingmsn?url=https://link.springer.de/cgi/linkref?issn=0020-9910%26year=03%26volume=151%26page=193">Link</a> to the published version.</li>
+
+<li><i>Quantum K-Theory I: Foundations</i>, 
+<a href="https://arxiv.org/abs/math.AG/0105014">math.AG/0105014</a>.
+Duke Math. J. 121 (2004), no. 3, 389-424,
+<a href="https://dukemathjournal.org/2004/abstracts/articles/DMJ12103_1.pdf">Link</a>.</li>
+
+<li><i>Virtual Fundamental Classes of Zero Loci</i>, (with <b>D. Cox and
+S. Katz</b>), in "Advances in algebraic geometry motivated by physics" 
+(Lowell, MA, 2000), 157--166, Contemp. 
+Math., 276, Amer. Math. Soc., Providence, RI, 2001. 
+<a href="https://arxiv.org/abs/math.AG/0006116">math.AG/0006116</a>.</li>
+
+<li><i>Quantum Lefschetz hyperplane theorem</i>, Invent. Math. 145 (2001), no. 1,
+121--149. 
+<a href="https://arxiv.org/abs/math.AG/0003128">math.AG/0003128</a>.
+<a href="https://www.ams.org/leavingmsn?url=https://link.springer.de/cgi/linkref?issn=0020-9910%26year=01%26volume=145%26page=121">Link</a> to the published version. 
+</li>
+
+<li><i>A formula for Euler characteristics of tautological line bundles on
+the Deligne-Mumford spaces</i>, IMRN 1997 No. 8. 
+<a href="imrn.pdf">PDF</a>.</li>
+
+<li><i>Quantum K-theory</i>, PhD thesis, UC Berkeley, 1999.</li>
+
+<li><i>The quadrupole moment of Delta and Hyperion calculated on the 
+constituent quark shell model in large oscillator basis</i>,
+(with <b>W.-C. Chang</b>), B.S. thesis, communicated in the annual
+meeting of Taiwanese physical society, 1991.</li>
+</ul>
+
+<hr />
+
+<!--<b>Slides of talks</b>
+
+<ul>
+<li>The <a href="ite_talk.pdf">slides</a> of my talk in 
+<a href="https://www.math.utah.edu/~wags04/">WAGS spring 2004</a> and
+again in <a href="https://math.cts.nthu.edu.tw/~algcts04/">NCTS conference</a>.
+Note: this has been incorporated into the papers <i>Invariance of tautological equations I and II</i> (see above). </li>
+
+</ul>-->
+
+<!--
+<hr />
+<a name="cv"><b>CV and Bibliography</b></a>
+<p>
+<a href="cv_as.pdf">cv</a>
+(as of 2021) 
+</p>
+-->
+
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-2458-3215" href="https://orcid.org/0000-0003-2458-3215" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="../../../info.orcid.org/wp-content/uploads/2020/12/ORCIDiD_icon16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-2458-3215</a></div>
+
+<!--<hr />
+<a href="https://www.research.utah.edu/"><b>Research in Utah</b></a>
+
+<ul>
+<li> <a href="https://www.math.utah.edu/research/ag/">Algebraic 
+Geometry Group</a> </li>
+<li> <a href="https://www.math.utah.edu/~opstall/agsem/">Algebraic Geometry
+Seminar</a> </li>
+<li> <a href="https://www.physics.utah.edu/~esharpe/seminar.html">String 
+Geometry Seminar</a> </li>
+<li> <a href="https://www.math.utah.edu/research/">Research page</a> of the
+mathematics department. (outdated!)</li>
+<li> <a href="https://www.osp.utah.edu/">OSP at U</a> &nbsp; 
+<a href="https://erica.research.utah.edu/">Conflict of interest form</a> &nbsp;
+<a href="https://fbs.admin.utah.edu/travel/">Travel administration</a>
+</li>
+
+</ul>
+-->
+
+<hr />
+
+<b>Acknowledgements:</b>
+The above research is partially supported by 
+
+<ul>
+<li> <a href="https://www.most.gov.tw/">MoST</a> </li>
+<li> <a href="https://www.nsf.gov/">NSF</a> 
+(Links: <a href="https://www.nsf.gov/mps/divisions/dms/">DMS</a>,
+<a href="https://www.fastlane.nsf.gov/">Fastlane</a>,
+<a href="https://www.research.gov/">research.gov</a>)
+<!--<a href="https://www.nsf.gov/pubs/policydocs/pappguide/nsf08_1/gpg_index.jsp">ProposalGuide</a>)-->
+</li>
+<li> <a href="https://www.ams.org/prizes/centennial-fellowship.html">AMS Centennial Fellowship</a> (2005-2007). </li>
+<!--<li> I often visit <a href="https://www.cts.nthu.edu.tw/">NCTS</a> (Taiwan) for a month during the summer. Thanks to Taiwan <a href="https://web.nsc.gov.tw/">NSC</a> for partial support.</li>-->
+</ul>
+
+<!-- Begin footer -->
+
+<hr noshade="noshade" />
+<center>
+<a href="../index.html">Y.P.'s homepage</a>
+</center>
+<hr noshade="noshade" />
+
+<!-- End footer -->
+</body>
+
+<!-- Mirrored from www.math.sinica.edu.tw/ypleemath/research/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Mar 2023 06:10:43 GMT -->
+</html>

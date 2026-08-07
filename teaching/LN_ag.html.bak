@@ -1,0 +1,1278 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+
+<!-- Mirrored from www.math.sinica.edu.tw/ypleemath/teaching/LN_ag.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Mar 2023 06:10:53 GMT -->
+<head>
+  <title>Lecture Notes Algebraic Geometry</title>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=windows-1252">
+  <meta content="MSHTML 5.50.4616.200" name="GENERATOR">
+</head>
+<body bgcolor="#f5f5dc" text="#800000">
+<h1>Lecture Notes in Algebraic Geometry</h1>
+<table id="Tabelle2" border="1" cellpadding="0" cellspacing="0"
+ width="100%">
+  <tbody>
+    <tr>
+      <td bgcolor="#ffff33" height="15" width="204">
+      <p><font color="#000000" size="-1">title</font></p>
+      </td>
+      <td bgcolor="#ffff33" width="122">
+      <p><font color="#000000" size="-1">author</font></p>
+      </td>
+      <td bgcolor="#ffff33" width="147">
+      <p><font color="#000000" size="-1">source</font></p>
+      </td>
+      <td bgcolor="#ffff33" width="44">
+      <p><font color="#000000" size="-1">dvi</font></p>
+      </td>
+      <td bgcolor="#ffff33" width="46">
+      <p><font color="#000000" size="-1">ps</font></p>
+      </td>
+      <td bgcolor="#ffff33" width="43">
+      <p><font color="#000000" size="-1">pdf</font></p>
+      </td>
+      <td bgcolor="#ffff33" width="43">
+      <p><font color="#000000" size="-1">html</font></p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Basic Algebraic Geometry</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Donu Arapura</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://www.math.purdue.edu/~dvb/"><font
+ size="-1">Purdue</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://www.math.purdue.edu/~dvb/preprints/algeom.pdf"><img
+ id="Bild5" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Complex Algebraic Varieties</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Donu Arapura</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://www.math.purdue.edu/~dvb/"><font
+ size="-1">Purdue</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://www.math.purdue.edu/~dvb/preprints/crashcourse.pdf"><img
+ id="Bild5" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Complex Algebraic Varieties and their
+Cohomology</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Donu Arapura</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://www.math.purdue.edu/~dvb/"><font
+ size="-1">Purdue</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.math.purdue.edu/~dvb/preprints/book.pdf"><img
+ id="Bild5" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Introduction to Algebraic Geometry</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Donu Arapura</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://www.math.purdue.edu/~dvb/"><font
+ size="-1">Purdue</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://math.stanford.edu/~vakil/725/course.html"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Geometrie Algebraica y Analitica</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Enrique Arrondo</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://www.mat.ucm.es/~arrondo/"><font
+ size="-1">Madrid</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.mat.ucm.es/~arrondo/projvar.pdf"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.mat.ucm.es/~arrondo/gaa.html"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Algebraic Geometry Notes </font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Aaron Bertram</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://www.math.utah.edu/~bertram/"><font
+ size="-1">Utah</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.math.utah.edu/~bertram/6030/"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">A Stab at some Algebraic Geometry</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Aaron Bertram</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://www.math.utah.edu/~bertram/"><font
+ size="-1">Utah</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.math.utah.edu/~bertram/courses/alggeo/"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Alg&egrave;bre commutative et G&eacute;ometrie
+alg&eacute;brique</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Antoine Chambert-Loir</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href=""><font
+ size="-1">Jussieu</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href=""><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44"><a
+ href=""><img
+ id="Bild5" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</td>
+      <td width="44">
+      <p><a href=""><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Algebraic Geometry</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Kevin Coombes</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://odin.mdacc.tmc.edu/~krc/"><font
+ size="-1">Univ. Texas</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://odin.mdacc.tmc.edu/~krc/agathos"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Introduction &agrave; la G&eacute;ometrie
+alg&eacute;brique</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Olivier Debarre</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://www-irma.u-strasbg.fr/~debarre/"><font
+ size="-1">Strasbourg</font></a></p>
+      </td>
+      <td width="44">
+      <p><a href="http://irmasrv1.u-strasbg.fr/~debarre/DEA99.dvi"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href=""><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href=""><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Vari&eacute;t&eacute;s complexes </font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Olivier Debarre</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://www-irma.u-strasbg.fr/~debarre/"><font
+ size="-1">Strasbourg</font></a></p>
+      </td>
+      <td width="44">
+      <p><a href=""><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href=""><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href=""><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Vari&eacute;t&eacute;s alg&eacute;briques
+complexes</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Olivier Debarre</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://www-irma.u-strasbg.fr/~debarre/"><font
+ size="-1">Strasbourg</font></a></p>
+      </td>
+      <td width="44">
+      <p><a href=""><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href=""><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href=""><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Complex analytic and algebraic geometry</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Jean-Pierre Demailly</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a
+ href="http://www-fourier.ujf-grenoble.fr/~demailly/"><font size="-1">Univ.
+Grenoble</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://www-fourier.ujf-grenoble.fr/~demailly/manuscripts/agbook.ps.gz"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://www-fourier.ujf-grenoble.fr/~demailly/books.html"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Introduction to Algebraic Geometry</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Igor Dolgachev</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://www.math.lsa.umich.edu/~idolga/"><font
+ size="-1">Michigan</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.math.lsa.umich.edu/~idolga/topics1.ps"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://www.math.lsa.umich.edu/~idolga/lecturenotes.html"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Topics in Classical Algebraic Geometry</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Igor Dolgachev</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://www.math.lsa.umich.edu/~idolga/"><font
+ size="-1">Michigan</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.math.lsa.umich.edu/~idolga/topics1.ps"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://www.math.lsa.umich.edu/~idolga/lecturenotes.html"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Algebraic Geometry</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Andreas Gathmann</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a
+ href="http://www.mathematik.uni-kl.de/~gathmann/en/"><font size="-1">Kaiserslautern</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://www.mathematik.uni-kl.de/~gathmann/pdf/260.ps"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://www.mathematik.uni-kl.de/~gathmann/pdf/260.pdf"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://www.mathematik.uni-kl.de/~gathmann/en/pub.html"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Algebraic Geometry</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Andreas Gathmann</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a
+ href="http://www.mathematik.uni-kl.de/~gathmann/en/"><font size="-1">Kaiserslautern</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://www.mathematik.uni-kl.de/~gathmann/pdf/261.ps"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://www.mathematik.uni-kl.de/~gathmann/pdf/261.pdf"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://www.mathematik.uni-kl.de/~gathmann/en/261.html"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Algebraic Geometry</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Anthony Geramita</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://www.mast.queensu.ca/~tony/"><font
+ size="-1">Queens Univ. Kingston</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.mast.queensu.ca/~tony/alggeo00.html"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Algebraic Geometry: a start-up course</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Alexey Gorodentsev</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><font size="-1">Univ. Warwick</font></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.mccme.ru/ium/s99/warwick.html"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Algebraic Geometry: a start-up course</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Alexey Gorodentsev</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><font size="-1">Moscow</font></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://ium.mccme.ru/s03/alg-geom.html"><img id="Bild4"
+ src="floppy.gif" alt="" align="top" border="0" height="20" hspace="0"
+ vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Algebraische Geometrie</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">G&uuml;nter Harder</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a
+ href="http://www.math.uni-bonn.de/people/harder/"><font size="-1">Uni
+Bonn</font></a></p>
+      </td>
+      <td width="44">
+      <p><a
+ href="ftp://ftp.math.uni-bonn.de/people/harder/buch/Algeo.dvi"><img
+ id="Bild5" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="ftp://ftp.math.uni-bonn.de/people/harder/buch/Algeo.ps"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">&nbsp;</td>
+      <td width="44">
+      <p><a href="ftp://ftp.math.uni-bonn.de/people/harder/buch/"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Algebraic Geometry Seminar</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Michael Harrison</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a
+ href="http://books.pdox.net/Lecture Notes/Algebraic Geometry Seminar/"><font
+ size="-1">Univ. Michigan</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">&nbsp;</td>
+      <td width="44">
+      <p><a
+ href="http://books.pdox.net/Lecture Notes/Algebraic Geometry Seminar/"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Algebraic Geometry</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Robin Hartshorne </font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://robin.hartshorne.net/"><font
+ size="-1">UC Berkeley</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://modular.fas.harvard.edu/AG.html"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Computational Algebraic Geometry</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Brendan Hassett</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://math.rice.edu/~hassett/"><font
+ size="-1">Rice University</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://www.math.rice.edu/~hassett/teaching/465spring02/465lec.html"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Basic Algebraic Geometry</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">David Hyeon</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://math.rice.edu/~hyeon/"><font
+ size="-1">Rice University</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://math.rice.edu/~hyeon/teaching/Fall2003/Math465/lecture_notes.htm"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Geometria Algebraica</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Carlos Ivorra</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://www.uv.es/~ivorra/"><font
+ size="-1">Valencia</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.uv.es/~ivorra/Libros/GeomAlg.pdf"><img
+ id="Bild5" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.uv.es/~ivorra/Libros/Libros.htm"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Elementary Algebraic Geometry</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">David Marker</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://www2.math.uic.edu/~marker/"><font
+ size="-1">Chicago</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www2.math.uic.edu/~marker/math494/"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Introduction &agrave; la G&eacute;ometrie
+alg&eacute;brique</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">David Madore</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a
+ href="http://www.eleves.ens.fr:8080/home/madore/math/"><font size="-1">Univ.
+Paris</font></a></p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://www.eleves.ens.fr:8080/home/madore/math/geoalg.dvi"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://www.eleves.ens.fr:8080/home/madore/math/geoalg.ps.gz"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.eleves.ens.fr:8080/home/madore/math/"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="179">
+      <p><font size="-1"> Algebraic Geometry</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">James Milne</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://www.jmilne.org/"><font size="-1">Ann
+Arbor</font></a></p>
+      </td>
+      <td width="44"><a
+ href="http://www.jmilne.org/math/CourseNotes/math631.dvi"><img
+ id="Bild5" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</td>
+      <td width="44">
+      <p><a href="http://www.jmilne.org/math/CourseNotes/math631.ps.gz"><img
+ id="Bild5" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.jmilne.org/math/CourseNotes/math631.pdf"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.jmilne.org/math/CourseNotes/math631.html"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Algebraische Geometrie I</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Uwe Nagel</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://www.ms.uky.edu/~uwenagel/"><font
+ size="-1">Univ. Paderborn</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www-math.upb.de/~acrowley/Studium/img/ag.pdf"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www-math.upb.de/~acrowley/"><img id="Bild4"
+ src="floppy.gif" alt="" align="top" border="0" height="20" hspace="0"
+ vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Algebraische Geometrie II</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Uwe Nagel</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://www.ms.uky.edu/~uwenagel/"><font
+ size="-1">Univ. Paderborn</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://www-math.upb.de/~acrowley/Studium/img/AlgGeoII(1).pdf"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://www.ms.uky.edu/~uwenagel/GEOM-II/geom-II.html"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Algebraic Geometry</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Sandra Di Rocco</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://www.math.umn.edu/~dirocco/"><font
+ size="-1">Univ. Minnesota</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.math.umn.edu/~dirocco/Notes.html"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Algebraische Geometrie</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Wolfgang Ruppert</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a
+ href="http://www.mi.uni-erlangen.de/~ruppert/"><font size="-1">Univ.
+Erlangen</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://www.mi.uni-erlangen.de/~ruppert/skripten/ag.ps.gz"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.mi.uni-erlangen.de/~ruppert/skripten/"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Algebraische Geometrie 2</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Wolfgang Ruppert</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a
+ href="http://www.mi.uni-erlangen.de/~ruppert/"><font size="-1">Univ.
+Erlangen</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://www.mi.uni-erlangen.de/~ruppert/skripten/alggeo2.ps.gz"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.mi.uni-erlangen.de/~ruppert/skripten/"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Schemata</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Wolfgang Ruppert</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a
+ href="http://www.mi.uni-erlangen.de/~ruppert/"><font size="-1">Univ.
+Erlangen</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://www.mi.uni-erlangen.de/~ruppert/skripten/sch.ps.gz"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.mi.uni-erlangen.de/~ruppert/skripten/"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Algebraic Geometry</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Alexei Skorobogatov</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://www.ma.ic.ac.uk/~anskor/"><font
+ size="-1">IC London</font></a></p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.ma.ic.ac.uk/~anskor/ag.dvi"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.ma.ic.ac.uk/~anskor/teaching.htm"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Algebraic Geometry</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Petr Somberg</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a
+ href="http://adela.karlin.mff.cuni.cz/~somberg/"><font size="-1">Univ.
+Prague</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://adela.karlin.mff.cuni.cz/~somberg/co/ag/ag.ps"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://adela.karlin.mff.cuni.cz/~somberg/lectures.htm"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Algebraische Geometrie I</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Heinz Spindler</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a
+ href="http://www.math.uos.de/research/algeo.shtml"><font size="-1">Univ.
+Osnabr&uuml;ck</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="ftp://ftp.mathematik.uni-osnabrueck.de/pub/osm/AlgGeo_I.ps.gz"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="ftp://ftp.mathematik.uni-osnabrueck.de/pub/osm/AlgGeo_I.pdf"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.mathematik.uni-osnabrueck.de/script/"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Algebraic Geometry</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">John Tate (D.B. McReynolds)</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><font size="-1">Austin, TX</font></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a
+ href="http://www.ma.utexas.edu/users/dmcreyn/TateLectures.pdf"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.ma.utexas.edu/users/dmcreyn/downloads.html"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Algebraic Geometry</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Titus Teodorescu</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><font size="-1">Univ. Minnesota</font></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.math.okstate.edu/~titusteo/ag/ag.html"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Introduction to Algebraic Geometry</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Ravi Vakil</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://math.stanford.edu/~vakil/"><font
+ size="-1">Univ. Stanford</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://math.stanford.edu/~vakil/725/course.html"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Topics in algebraic geometry: Complex
+algebraic surfaces</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Ravi Vakil</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://math.stanford.edu/~vakil/"><font
+ size="-1">Univ. Stanford</font></a></p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://math.stanford.edu/~vakil/245/"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td height="20" width="170">
+      <p><font size="-1">Basic Algebraic Geometry</font></p>
+      </td>
+      <td width="140">
+      <p><font size="-1">Oliver Wittenberg</font></p>
+      </td>
+      <td width="147">
+      <p align="left"><a href="http://www.eleves.ens.fr/home/wittenbe/"><font
+ size="-1">ENS</font></a></p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.eleves.ens.fr/home/wittenbe/agcourse.dvi"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.eleves.ens.fr/home/wittenbe/agcourse.ps.gz"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p>&nbsp;</p>
+      </td>
+      <td width="44">
+      <p><a href="http://www.eleves.ens.fr/home/wittenbe/"><img
+ id="Bild4" src="floppy.gif" alt="" align="top" border="0" height="20"
+ hspace="0" vspace="0" width="30"></a>&nbsp;</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<address></address>
+
+<!-- hhmts start -->
+This page is authored by 
+<a href="mailto:hb3@aixterm1.urz.uni-heidelberg.de">Franz Lemmermeyer</a>.
+The original page can be found at the following
+<a href="http://www.fen.bilkent.edu.tr/~franz/LN/LN-algeo.html">link</a>.
+<!-- hhmts end -->
+</body>
+
+<!-- Mirrored from www.math.sinica.edu.tw/ypleemath/teaching/LN_ag.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Mar 2023 06:10:54 GMT -->
+</html>

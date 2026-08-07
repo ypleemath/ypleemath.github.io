@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head><title>EGEA workshop Webpage</title>
+<meta name="description" content="Professional Homepage" />
+<style type="text/CSS">
+<!--
+a:link {color: darkblue; font-weight: bold;text-decoration: none;}
+a:visited {
+        color: #003399; font-weight: bold;text-decoration: none;}
+a:hover {
+        font-weight:bold; color: darkred;text-decoration: none;}
+a:active {
+        color: #993333; font-weight: bold;text-decoration: none;}
+.more {
+        font-family:Arial, sans-serif, Helvetica}
+
+a.adr:link {
+	font-weight: bold; color: white; text-decoration: none;
+}
+a.adr:visited {
+	color: white; text-decoration: none;
+}
+a.adr:hover {
+        color: darkred; text-decoration: none;	
+}
+a.adr:active {
+	font-weight: bold; color: lightgrey; text-decoration: none;
+}
+-->
+</style>
+</head>
+
+<body>
+
+
+
+
+<table width="100%">
+<tr align="center">
+      <td valign="top" bgcolor="#e2e2e2">
+      <table border="0" cellspacing="0" cellpadding="0" width="100%">
+        <tbody>
+          <tr bgcolor="#000099">
+            <td width="5%"> </td>
+            <td>
+            <table width="100%">
+              <tbody>
+                <tr>
+                  <td width="70%" align="left"><b><font color="white">Titles and Abstracts</font></b></td>
+                  <td width="10%" align="right">
+              </td>   
+                 <td width="20%" align="left" nowrap="nowrap">
+		</td>
+                </tr>
+              </tbody>
+            </table>
+            </td>
+            <td width="1" bgcolor="#fdf5e6"> </td>
+            <td width="5%"> </td>
+            <td>
+            <table width="100%">
+              <tbody>
+                <tr>
+                 <td width="70%" align="left"><b><font color="white"></font></b></td>
+                 <td width="10%" align="right"> </td>
+                 <td width="20%" align="left" nowrap="nowrap">  </td>
+                </tr>
+              </tbody>
+            </table>
+            </td>
+          </tr>
+          <tr>
+            <td width="5%" align="right" bgcolor="#e2e2e2"> </td>
+            <td width="45%" valign="bottom" bgcolor="#e2e2e2"> </td>
+            <td width="1" bgcolor="#fdf5e6"> </td>
+            <td width="5%" align="right" bgcolor="#e2e2e2"> </td>
+            <td width="45%" valign="bottom" bgcolor="#e2e2e2"> </td>
+          </tr>
+	</tbody>
+       </table>
+      </td>
+</tr>
+</table>
+
+<ul>
+
+
+<li><a href="http://www.math.columbia.edu/~okounkov/">Andrei Okounkov (Columbia)</a>: <i><b>Enumerative Geometry and Special Functions</b></i> 
+  <ul><li>Special functions are like threads which hold together many different pages of the history of mathematics. Functions that were important in mathematics and mathematical physics of the two previous centuries find new interpretations and vast generalizations in the current research, including current research in enumerative geometry. In these lectures, I will try to connect classical and modern topics in special functions in a way that should be accessible to a wide mathematical audience. </li></ul></li>
+
+<hr />
+
+<li><a href="https://mathematics.stanford.edu/people/mohammed-abouzaid">Mohammed Abouzaid (Stanford)</a>    : <i><b>The chain level product on quantum cohomology</b></i>The existence of a chain level quantum product has remained open despite many years of speculation. In joint work with Groman and Varolgunes, we constructed a chain model for the cohomology of a manifold which carries an algebra structure over the operad of framed genus 0 Riemann surfaces. The chain level structure over the chains of the genus 0 Deligne-Mumford operad can then be recovered from one additional datum, namely a trivialisation of the circle action (a shadow of this action is the rotation component of Givental's group). Our construction is far more general, and associates an operadic algebra to each compact subset of a closed symplectic manifold. The resulting invariant is defined over the Novikov ring, is strictly functorial under inclusions, and satisfies the Mayer-Vietoris property for Varolgunes covers.
+  <ul><li>TBA
+</li></ul></li>
+
+<li><a href="https://math.berkeley.edu/~giventh/">Alexander Givental (Berkeley)</a>    : <i><b>Chern-Euler intersection theory and Gromov-Witten invariants</b></i>
+  <ul><li>I will outline our (joint with Irit Huq-Kuruvilla) attempt to develop the theory of Gromov-Witten invariants based on Euler characteristics rather than intersection numbers. 
+</li></ul></li>
+
+<!--<li><a href="https://www.math.pku.edu.cn/puremath/szll/qtjy/g/83274.htm">Shuai Guo (PKU)</a>    : <i><b></b></i>
+  <ul><li>
+</li></ul></li>-->
+
+<li><a href="https://www.preschema.com/">Adeel Khan (AS)</a>: <i><b>Microlocal methods on moduli spaces</b></i>
+  <ul><li>I will explain a microlocal perspective on virtual invariants of moduli spaces.  Joint work, partially in progress, with Tasuki Kinjo.
+</li></ul></li>
+
+
+<li><a href="https://sites.google.com/site/yhkiem/">Young-Hoon Kiem (KIAS)</a>: <i><b>Cosection localization via shifted symplectic geometry</b></i>
+
+  <ul><li>Modern enumerative invariants are defined as integrals of cohomology classes against virtual fundamental classes constructed by Li-Tian and Behrend-Fantechi. When the obstruction sheaf admits a cosection, the virtual fundamental class is localized to the zero locus of the cosection. When the cosection is furthermore enhanced to a (-1)-shifted closed 1-form, the zero locus admits a (-2)-shifted symplectic structure and thus we have another virtual fundamental class by the Oh-Thomas construction. An obvious question is whether these two virtual fundamental classes coincide or not. In this talk,  we will see that (-1)-shifted closed 1-forms arise naturally as an analogue of the Lagrange multiplier method. Furthermore, a proof of the equality of the two virtual fundamental classes and its applications will be discussed. Based on a joint work with Hyeonjun Park.</li></ul></li>
+
+<li><a href="https://www.math.hkust.edu.hk/~mawpli/">Wei-Ping Li (HKUST)</a>    : <i><b>Higher genus Gromov-Witten invariants of Calabi-Yau hypersurfaces</b></i>
+  <ul><li>I will discuss the mixed-spin-p-fields method for Calabi-Yau quintics and Calabi-Yau hypersurfaces in P^2\times P^2.  
+The geometric setup of the method consists of p-fields reformulation of Gromov-Witten theory and FJRW theory, and the usage of master space technique connecting two GIT quotients corresponding to GW and FJRW invariants respectively. The application and modification of Givental’s method will be briefly discussed. This method has been successfully applied to solve BCOV Feynman summation rule for mentioned Calabi-Yau threefolds.
+</li></ul></li>
+
+<li><a href="https://www.math.columbia.edu/~ccliu/">Melissa Liu (Columbia)</a>    : <i><b>Wall-crossing in abelian gauged linear sigma models</b></i>
+  <ul><li><a href="liu_abstract.pdf">abstract in pdf</a>
+<!--      The input data of a gauged linear sigma model (GLSM) consist of a GIT quotient of a complex vector space V by the linear action of a reductive algebraic group G (the gauge group) and a G-invariant polynomial function on V (the superpotential) which is quasi-homogeneous with respect to a C^∗-action (R symmetries) on V. GLSM invariants are virtual counts of curves in the critical locus of the superpotential. In this talk, I will describe GIT wall-crossing of genus-zero cohomological and K-theoretic GLSM invariants when the gauge group G is abelian, based on joint work with Konstantin Aleshkin.  -->
+</li></ul></li>
+
+<li><a href="https://member.ipmu.jp/hiraku.nakajima/nakajima.html">Hiraku Nakajima (IPMU)</a>    : <i><b>S-dual varieties and Coulomb branches</b></i>
+  <ul><li>For a given G-hamiltonian space M, we assign a G^\vee-hamiltonian space M^\vee, called the S-dual of M. This construction is due to Gaiotto-Witten in physics literature. If M = T^*N, cotangent bundle, M^\vee can be defined mathematically as a variant of BFN-construction of Coulomb branches of 3d N=4 SUSY gauge theories. Moreover, S-dual varieties appear in relative Langlands duality proposed by BenZvi, Sakellaridis and Venkatesh, hence they might be interesting objects to study.
+</li></ul></li>
+
+<li><a href="https://cgp.ibs.re.kr/~yongoh/">Yong-Geun Oh (IBS, Postech)</a>    : <i><b>Contact instantons and entanglement of Legendrian links</b></i>
+  <ul><li>In this lecture, we first introduce the new nonlinear elliptic system of bordered contact instantons  with  Legendrian boundary condition in the quantitative study of contact topology,. Then we explain how the study of compactified moduli spaces of contact instantons in combination with the contact Hamiltonian geometry can be used to prove the Shelukhin's conjecture which reads that any contactomorphism has a translated (fixed) point whenever its oscillation norm is smaller than twice the period gap of the contact manifold. The relevant contact geometric construction involves the Legendrianization of contact diffeomorphisms and the usage of the $\Z_2$-symmetry of anti-contact involution. 
+</li></ul></li>
+
+<li><a href="https://scgp.stonybrook.edu/people/faculty/bios/john-pardon">John Pardon (Simons)</a>   : <i><b>Universally counting curves in Calabi--Yau threefolds</b></i>
+  <ul><li>Enumerating curves in algebraic varieties traditionally involves choosing a compactification of the space of smooth embedded curves in the variety.  There are many such compactifications, hence many different enumerative invariants.  I will propose a "universal" (very tautological) enumerative invariant which takes values in a certain "Grothendieck group of 1-cycles".  It is often the case with such "universal" constructions that the resulting Grothendieck group is essentially uncomputable.  But in this case, the cluster formalism of Ionel and Parker shows that, in the case of threefolds with nef anticanonical bundle, this Grothendieck group is freely generated by local curves.  This reduces the MNOP conjecture (in the case of nef anticanonical bundle and primary insertions) to the case of local curves, where it is already known due to work of Bryan--Pandharipande and Okounkov--Pandharipande.
+</li></ul></li>
+
+<li><a href="https://math.berkeley.edu/~teleman/">Constantin Teleman (Berkeley)</a>    : <i><b>Quantization commutes with reduction again</b></i>
+  <ul><li>For a Kaehler manifold with action of a reductive group G, the classical ‘quantization commutes with reduction’ theorem of Guillemin and Sternberg equates  with sections of the descended bundle over the symplectic reduction. This can be regarded as a `B-model result’ for quantum mechanics, whose A-model side is Kirwan surjectivity. In dimension 2, we will see that A and B are reversed: the B-side leads to a semi-orthogonal decomposition of the equivariant derived category (Halpern-Leistner, Ballard/Favero/Katzarkov), while the A-side leads to a strict result. I will describe the latter, for a compact monontone symplectic manifold, and discuss variations with weaker assumptions. This is joint work with Daniel Pomerleano.
+</li></ul></li>
+
+<!--<li><a href="https://tian.bicmr.pku.edu.cn/">Gang Tian (BICMR)</a>    : <i><b></b></i>
+  <ul><li>
+</li></ul></li>-->
+
+<li><a href="https://db.ipmu.jp/member/personal/755en.html">Yukinobu Toda (IPMU)</a>    : <i><b>Quasi-BPS categories for K3 surfaces</b></i>
+  <ul><li>I will introduce the notion of quasi-BPS categories for K3 surfaces. They are defined to be certain admissible subcategories of derived categories of coherent sheaves of moduli stacks of semistable objects on K3 surfaces. The quasi-BPS categories are interesting at least in the following two aspects:<br />
+(i) They categorify BPS cohomologies of K3 surfaces introduced by Davison et al; <br />
+(ii) They give twisted categorical crepant resolutions of singular symplectic moduli spaces, which do not admit crepant resolutions except OG10. <br />
+ I will give PBW type semiorthogonal decompositions into categorical Hall products of quasi-BPS categories, and also discuss categorical \chi-independence conjecture. This is a joint work with Tudor Padurariu.
+</li></ul></li>
+
+<li><a href="https://people.math.osu.edu/tseng.109/">Hsian-Hua Tseng (OSU)</a>    : <i><b>On Gromov-Witten theory of Hilbert schemes of points on the plane</b></i>
+  <ul><li>We discuss some results on Gromov-Witten theory of Hilbert schemes of points on the plane and connections with other theories, including some new calculations.
+</li></ul></li>
+
+<li><a href="http://www.math.ntu.edu.tw/~dragon/">Chin-Lung Wang (NTU)</a>    : <i><b>Quantum blowups and $x$-regularity</b></i>
+  <ul><li><a href="wang_abstract.pdf">abstract in pdf</a>
+</li></ul></li>
+
+<li><a href="https://tyy.caltech.edu/">Tony Yue Yu (Caltech)</a>    : <i><b>TBA</b></i>
+  <ul><li>TBA
+</li></ul></li>
+
+
+</ul>
+
+
+<!--
+<table width="100%">
+<tr align="center">
+      <td valign="top" bgcolor="#e2e2e2">
+      <table border="0" cellspacing="0" cellpadding="0" width="100%">
+        <tbody>
+          <tr bgcolor="#000099">
+            <td width="5%"> </td>
+            <td>
+            <table width="100%">
+              <tbody>
+                <tr>
+                  <td width="70%" align="left"><b><font color="white">Schedule</font></b></td>
+                  <td width="10%" align="right">
+              </td>   
+                 <td width="20%" align="left" nowrap="nowrap">
+		</td>
+                </tr>
+              </tbody>
+            </table>
+            </td>
+            <td width="1" bgcolor="#fdf5e6"> </td>
+            <td width="5%"> </td>
+            <td>
+            <table width="100%">
+              <tbody>
+                <tr>
+                 <td width="70%" align="left"><b><font color="white"></font></b></td>
+                 <td width="10%" align="right"> </td>
+                 <td width="20%" align="left" nowrap="nowrap">  </td>
+                </tr>
+              </tbody>
+            </table>
+            </td>
+          </tr>
+          <tr>
+            <td width="5%" align="right" bgcolor="#e2e2e2"> </td>
+            <td width="45%" valign="bottom" bgcolor="#e2e2e2"> </td>
+            <td width="1" bgcolor="#fdf5e6"> </td>
+            <td width="5%" align="right" bgcolor="#e2e2e2"> </td>
+            <td width="45%" valign="bottom" bgcolor="#e2e2e2"> </td>
+          </tr>
+	</tbody>
+       </table>
+      </td>
+</tr>
+</table>
+
+
+<div style="float: left; width: 20%; padding-bottom: 10px;">
+Day 1: <b>25 December, Monday</b>
+<ul>
+<li>    10:00-11:00 <a href="https://www.math.sinica.edu.tw/www/people/websty1_20e.jsp?owner=adeelkhan">Adeel Khan</a></li>
+<li>    11:30-12:30 <a href="https://www.math.sinica.edu.tw/www/people/websty1_20e.jsp?owner=adeelkhan">Adeel Khan</a></li>
+<li>    15:30-16:30 <a href="https://www.math.columbia.edu/~okounkov/">Andrei Okounkov</a> </li>
+</ul>
+</div>
+
+<div style="float: left; width: 20%; padding-bottom: 10px;">
+
+Day 2: <b>26 December, Tuesday</b>
+<ul>
+<li>    10:00-11:00 <a href="https://www.math.sinica.edu.tw/www/people/websty1_20e.jsp?owner=adeelkhan">Adeel Khan</a></li>
+<li>    11:30-12:30 <a href="https://www.math.sinica.edu.tw/www/people/websty1_20e.jsp?owner=adeelkhan">Adeel Khan</a></li>
+<li>    15:30-16:30 <a href="https://www.math.columbia.edu/~okounkov/">Andrei Okounkov</a> </li>
+<li> 18:30 Dinner at the <a href="">TBA</a></li>
+</ul>
+
+</div>
+
+<div style="float: left; width: 20%; padding-bottom: 10px;">
+
+Day 3: <b>27 December, Wednesday</b>
+<ul>
+<li>    10:00-11:00 <a href="https://www.math.sinica.edu.tw/www/people/websty1_20e.jsp?owner=adeelkhan">Adeel Khan</a></li>
+<li>    11:30-12:30 <a href="https://www.math.sinica.edu.tw/www/people/websty1_20e.jsp?owner=adeelkhan">Adeel Khan</a></li>
+<li>    15:30-16:30 <a href="https://www.math.columbia.edu/~okounkov/">Andrei Okounkov</a> </li>
+</ul>
+</div>
+
+<div style="float: left; width: 20%; padding-bottom: 10px;">
+Day 4: <b>28 December, Thursday</b>
+<ul>
+<li>    10:00-11:00  <a href="https://www.math.sinica.edu.tw/www/people/websty1_20e.jsp?owner=adeelkhan">Adeel Khan</a></li></li>
+<li>    11:30-12:30  <a href="https://www.math.sinica.edu.tw/www/people/websty1_20e.jsp?owner=adeelkhan">Adeel Khan</a></li> </li>
+<li>    14:30-15:30  <a href="https://www.math.sinica.edu.tw/www/people/websty1_20e.jsp?owner=adeelkhan">Adeel Khan</a></li> </li>
+<li>    16:00-17:00  <a href="https://www.math.sinica.edu.tw/www/people/websty1_20e.jsp?owner=adeelkhan">Adeel Khan</a></li> </li>
+</ul>
+</div>
+
+<div style="float: left; width: 20%; padding-bottom: 10px;">
+Day 5: <b>29 December, Friday</b>
+<ul>
+<li>    10:00-11:00 <a href="https://idv.sinica.edu.tw/ypleemath/egea/abstracts.html">Andrei Okounkov</a> </li>
+<li>    11:30-12:30 <a href="https://idv.sinica.edu.tw/ypleemath/egea/abstracts.html">Andrei Okounkov</a> </li>
+<li>    14:30-15:30 <a href="https://idv.sinica.edu.tw/ypleemath/egea/abstracts.html">Andrei Okounkov</a> </li>
+<li>    16:00-17:00 <a href="https://idv.sinica.edu.tw/ypleemath/egea/abstracts.html">Andrei Okounkov</a> </li>
+</ul>
+</div>
+
+-->
+
+
+<table width="100%">
+<tr align="center">
+      <td valign="top" bgcolor="#e2e2e2">
+      <table border="0" cellspacing="0" cellpadding="0" width="100%">
+        <tbody>
+          <tr bgcolor="#000099">
+            <td width="5%"> </td>
+            <td>
+            <table width="100%">
+              <tbody>
+                <tr>
+                  <td width="70%" align="left"><b><font color="white"><a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B2%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B8%D1%87">Sasha's Wiki Page</a></font></b></td>
+                  <td width="10%" align="right">
+              </td>   
+                 <td width="20%" align="left" nowrap="nowrap">
+		</td>
+                </tr>
+              </tbody>
+            </table>
+            </td>
+            <td width="1" bgcolor="#fdf5e6"> </td>
+            <td width="5%"> </td>
+            <td>
+            <table width="100%">
+              <tbody>
+                <tr>
+                 <td width="70%" align="left"><b><font color="white"></font></b></td>
+                 <td width="10%" align="right"> </td>
+                 <td width="20%" align="left" nowrap="nowrap">  </td>
+                </tr>
+              </tbody>
+            </table>
+            </td>
+          </tr>
+          <tr>
+            <td width="5%" align="right" bgcolor="#e2e2e2"> </td>
+            <td width="45%" valign="bottom" bgcolor="#e2e2e2"> </td>
+            <td width="1" bgcolor="#fdf5e6"> </td>
+            <td width="5%" align="right" bgcolor="#e2e2e2"> </td>
+            <td width="45%" valign="bottom" bgcolor="#e2e2e2"> </td>
+          </tr>
+	</tbody>
+       </table>
+      </td>
+</tr>
+</table>
+
+<hr />
+<a href="https://idv.sinica.edu.tw/ypleemath/egea/">Return to workshop homepage</a>
